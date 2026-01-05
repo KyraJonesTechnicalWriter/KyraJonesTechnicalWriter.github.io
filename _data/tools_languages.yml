@@ -1,0 +1,39 @@
+- name: Word Processing Programs (Microsoft Word, GoogleDocs)
+  percentage: 90
+  color: primary
+
+- name: Microsoft Excel
+  percentage: 70
+  color: primary
+  
+- name: Adobe Acrobat
+  percentage: 90
+  color: primary
+
+- name: MadCap Flare
+  percentage: 50
+  color: secondary
+
+- name: Version Control Tools (GitHub, GitLab)
+  percentage: 60
+  color: primary
+
+- name: Collaboration Management Tools (SharePoint, Confluence)
+  percentage: 70
+  color: primary
+
+- name: HTML5/CSS3
+  percentage: 40
+  color: secondary
+
+- name: XML/JSON/YAML
+  percentage: 30
+  color: secondary
+
+- name: Ruby/Jekyll
+  percentage: 70
+  color: primary
+
+- name: Markdown
+  percentage: 90
+  color: primary
