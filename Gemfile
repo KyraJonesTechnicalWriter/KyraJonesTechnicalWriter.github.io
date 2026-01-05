@@ -1,8 +1,5 @@
 source "https://rubygems.org"
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "jekyll-pdf-embed", group: :jekyll_plugins
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-
-group :jekyll_plugins do
-  gem "jekyll-pdf-embed"
-end
