@@ -3,7 +3,7 @@ title               : Kyra Jones
 description         : >-
                       Just a simple technical writer living in a forever-expanding and complicated world. 
 baseurl             : ""
-repository          : KyraJonesTechnicalWriter.github.io
+repository          : KyraJonesTechnicalWriter/KyraJonesTechnicalWriter.github.io
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
