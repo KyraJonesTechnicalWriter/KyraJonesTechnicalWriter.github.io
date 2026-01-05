@@ -12,4 +12,4 @@ permalink: /projects/HighPointCoffee.html
 ## Chorebook
 The biggest project I completed during my time there was the chorebook. Before completing this, there was no step-by-step instructions or reference materials for arguably one of the most important parts of our job. This book spelled out the expectations of each job to ensure consistency and structure. 
 
-{% pdf "/assets/pdf/chorebook.pdf" no_link height=1150px %}
+{% pdf "/assets/pdf/ChoreBook.pdf" no_link height=1150px %}

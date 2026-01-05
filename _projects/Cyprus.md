@@ -16,14 +16,14 @@ Most of the documents I crafted were for internal use. These included SOPs, refe
 #### Style Guide
 The official style guide was one of the most exciting things I wrote while at Cyprus Credit Union. I worked with a few different departments, training and HR, as well as the managers in the contact center, to finish this. I needed to ensure all the information was consistent with the pre-existing Cyprus documentation and training’s voice, goals, and scheme. Along with their approvals and assistance, I completed the style guide. Disclosure: the section “Brand Image and Identity” was written entirely by my HR department and provided to me to include in the document.
 
-{% pdf "/assets/pdf/cyprusstyleguide.pdf" no_link height=1150px %}
+{% pdf "/assets/pdf/CyprusStyleGuide.pdf" no_link height=1150px %}
 <br>
 <br>
 
 #### Automatic Payments
 This document details each type of automatic payment that Cyprus offers. It explains how to identify these automatic payments with helpful pictures to assist the employee.
 
-{% pdf "/assets/pdf/automaticpayments.pdf" no_link height=1150px %}
+{% pdf "/assets/pdf/AutomaticPayments.pdf" no_link height=1150px %}
 <br>
 <br>
 
@@ -44,7 +44,7 @@ Each night, one of my coworkers or I had to close our cash advance machine and e
 #### Common Declines in iQ
 The card system that Cyprus Credit Union used was called "iQ". This document details the reason for a denial and why that denial occurred.
 
-{% pdf "/assets/pdf/commondeclinesiniq.pdf" no_link height=1150px %}
+{% pdf "/assets/pdf/CommonDeclinesiniQ.pdf" no_link height=1150px %}
 <br>
 <br>
 
@@ -58,28 +58,28 @@ Collateral Protection Insurance, CPI, was insurance billed to a member’s loan 
 #### External Accounts
 This document provides the limits for external account transfers (transfers done to or from an account outside Cyprus CU). It also provides instructions to use as a reference when assisting a member with enrollment.
 
-{% pdf "/assets/pdf/externalaccount.pdf" no_link height=1150px %}
+{% pdf "/assets/pdf/ExternalAccount.pdf" no_link height=1150px %}
 <br>
 <br>
 
 #### Mobile Deposits
 This document explains how to enroll in mobile deposit. It also goes over the rules associated with it and the limits for mobile deposits.
 
-{% pdf "/assets/pdf/mobiledeposits.pdf" no_link height=1150px %}
+{% pdf "/assets/pdf/MobileDeposits.pdf" no_link height=1150px %}
 <br>
 <br>
 
 #### Safe Deposit Boxes
 This document answers all questions regarding Cyprus CU's safety deposit boxes such as checking availability, costs, and sizes.
 
-{% pdf "/assets/pdf/safedepositboxes.pdf" no_link height=1150px %}
+{% pdf "/assets/pdf/SafeDepositBoxes.pdf" no_link height=1150px %}
 <br>
 <br>
 
 #### Shared Branching
 Shared Branching is the name of a network of credit unions that allows transactions to be done at a credit union that a member doesn’t belong to. For example, a member of Cyprus Credit Union could go to Goldenwest Credit Union to complete a transaction on their account and vice versa. This document explains Shared Branching and troubleshoots potential issues.
 
-{% pdf "/assets/pdf/sharedbranching.pdf" no_link height=1150px %}
+{% pdf "/assets/pdf/SharedBranching.pdf" no_link height=1150px %}
 <br>
 <br>
 
