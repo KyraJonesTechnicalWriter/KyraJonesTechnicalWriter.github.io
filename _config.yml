@@ -97,4 +97,8 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  - [vendor]
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
